@@ -19,9 +19,9 @@ function Home() {
                      <Typography variant="h6" >Welcome</Typography>
                     <Typography variant="h6">Let's start your journey</Typography>
 
-                    <Typography variant="subtitle1" sx={{ mt: 2 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.</Typography>
-                    <Typography variant="subtitle1" sx={{ mt: 2 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.</Typography>
-                    <Typography variant="subtitle1" sx={{ mt: 2 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor.</Typography>
+                    <Typography variant="body1" sx={{ mt: 2 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.</Typography>
+                    <Typography variant="body1" sx={{ mt: 2 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.</Typography>
+                    <Typography variant="body1" sx={{ mt: 2 }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor.</Typography>
                      </Box>
 
                     <Typography variant="caption" sx={{pt:4}}>2024 Mintouge Limited</Typography>
