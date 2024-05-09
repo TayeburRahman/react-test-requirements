@@ -3,7 +3,7 @@ import React from 'react'
 
 function Stepper({}) {
     return (
-        <Box sx={{display: "flex", alignItems: "center", justifyContent: "space-between"}}>
+        <Box sx={{display: "flex", alignItems: "center", justifyContent: "space-between",  padding:"2%"}}>
             <Grid sx={{ fontWeight: 'bold' }}>
                 <Typography sx={{ fontWeight: 'bold', p:3 }}>
                     <span>1</span><br/>

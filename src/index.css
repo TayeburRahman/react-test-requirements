@@ -15,10 +15,17 @@
 
 body {
   margin: 0;
-  display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+}
+
+.content_box {
+  width: 30%;
+}
+
+.form_box {
+  width: 70%;
 }
 
 .other_ {
@@ -53,5 +60,15 @@ body {
   }
   button {
     background-color: #f9f9f9;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .content_box {
+    display: none;
+  }
+
+  .form_box {
+    width: 100%;
   }
 }
